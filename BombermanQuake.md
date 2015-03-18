@@ -1,0 +1,13 @@
+has both the original Bomberman + shaped explosions (which didn't properly destroy and would overflow the game eventually) as well as the lazy spherical explosions from Bomberman 64.  it got two posts on [PlanetQuake](http://planetquake.gamespy.com/) back when that had cred! =D
+
+trying to find the source
+
+
+![http://yoiang.googlecode.com/svn/trunk/BombermanQuake/docs/screen1.jpg](http://yoiang.googlecode.com/svn/trunk/BombermanQuake/docs/screen1.jpg)
+![http://yoiang.googlecode.com/svn/trunk/BombermanQuake/docs/screen2.jpg](http://yoiang.googlecode.com/svn/trunk/BombermanQuake/docs/screen2.jpg)
+> 
+---
+
+[Downloads](http://code.google.com/p/yoiang/downloads/list?q=label:Shooter)
+[Issues and Todo](http://code.google.com/p/yoiang/issues/list?q=label:Shooter)
+[Link](http://web.archive.org/web/20001024135712/qbomb.hypermart.net/index.html)

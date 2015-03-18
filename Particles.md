@@ -1,0 +1,11 @@
+Particles is a simple, modular, easily customized particle renderer. The class turned out so compact and modular that I've used it in a few other projects since. This build includes a few presets to demonstrate just how flexible it can be, with just a few variable changes between each preset.  The compiled archive also includes an older build before collision was disabled.
+
+![http://yoiang.googlecode.com/svn/trunk/Particles/docs/screen1.jpg](http://yoiang.googlecode.com/svn/trunk/Particles/docs/screen1.jpg)
+![http://yoiang.googlecode.com/svn/trunk/Particles/docs/screen2.jpg](http://yoiang.googlecode.com/svn/trunk/Particles/docs/screen2.jpg)
+![http://yoiang.googlecode.com/svn/trunk/Particles/docs/screen3.jpg](http://yoiang.googlecode.com/svn/trunk/Particles/docs/screen3.jpg)
+> 
+---
+
+[Downloads](http://code.google.com/p/yoiang/downloads/list?q=label:Particles)
+[Issues and Todo](http://code.google.com/p/yoiang/issues/list?q=label:Particles)
+[Source](http://code.google.com/p/yoiang/source/browse)
